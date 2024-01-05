@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Riccardo Conci # Website name
-baseURL: 'https://www.riccardoconci.com' # Website URL
+baseURL: 'https://www.rickconci.github.io' # Website URL
 
 ############################
 ## LANGUAGE
