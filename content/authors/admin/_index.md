@@ -51,7 +51,7 @@ education:
       institution: University of Cambridge
       Year: 2015-2018
 
-"""
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -91,7 +91,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-"""
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
